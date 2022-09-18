@@ -2,4 +2,4 @@
 name=$(date);
 echo $name;
 git add .
-git commit -S -sm "$name"
+git commit -S -sm "Hello bois $name"
